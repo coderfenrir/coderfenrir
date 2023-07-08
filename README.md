@@ -1,20 +1,21 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderfenrir ) 
+<h1 align="center">Hi 👋, I'm coderfenrir</h1>
+<h3 align="center">Python ve Shell script üzerinde kendi çapımda projeler yapıp paylaşım yapıyorum.</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=coderfenrir&theme=tema_adı&hide_border=false&include_all_commits=false&count_private=false)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderfenrir&label=Profile%20views&color=0e75b6&style=flat" alt="coderfenrir" /> </p>
 
-![coderfenrir's Stats](https://github-readme-stats.vercel.app/api?username=coderfenrir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/coderfenrir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderfenrir" height="30" width="40" /></a>
+<a href="https://discord.gg/coderfenrir#6903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coderfenrir#6903" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=coderfenrir &icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![coderfenrir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderfenrir&theme=vue-dark&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderfenrir&show_icons=true&locale=en&layout=compact" alt="coderfenrir" /></p>
 
-![coderfenrir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfenrir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderfenrir&show_icons=true&locale=en" alt="coderfenrir" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
