@@ -9,8 +9,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coderfenrir &theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfenrir &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![coderfenrir's Stats](https://github-readme-stats.vercel.app/api?username=coderfenrir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=coderfenrir &icon=0&color=0)](https://visitcount.itsvg.in)
+
+![coderfenrir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderfenrir&theme=vue-dark&hide_border=true)
+
+![coderfenrir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfenrir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
