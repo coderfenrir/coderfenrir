@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm coderfenrir</h1>
-<h3 align="center">Python ve Shell script üzerinde kendi çapımda projeler yapıp paylaşım yapıyorum.</h3>
+<h3 align="center">I make and share projects of my own on Python and Shell script.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
