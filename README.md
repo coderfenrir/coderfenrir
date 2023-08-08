@@ -1,6 +1,4 @@
-
 <h1 align="center">Hi 👋, I'm coderfenrir</h1>
-https://user-images.githubusercontent.com/88341460/189535591-84f204da-08af-4989-821f-e6608902a4a1.gif
 <h3 align="center">I make and share projects of my own on Python and Shell script.</h3>
 
 <h3 align="left">Connect with me:</h3>
